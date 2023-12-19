@@ -31,6 +31,10 @@ I'm a fullstack developer
 ### Databases
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+<a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Apache_CouchDB_logo.svg" width="36" height="36" alt="CouchDB" />
+<a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/I/influxdb-logo-67443AEDE0-seeklogo.com.png" width="36" height="36" alt="InfluxDB" />
+<a href="https://redis.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="36" height="36" alt="Redis" />
+
 
 ### Others
 

@@ -7,7 +7,7 @@ I'm a fullstack developer
   * 🌍  I'm based in Montreal, Canada
   * ✉️  You can contact me at [anthony.vergne@outlook.com](mailto:anthony.vergne@outlook.com)
   * 🚀  I'm currently working on [Reminder](http://github.com/Zadrott/Reminder)
-  * 🧠  I'm learning Angular 17 & MongoDB
+  * 🧠  I'm learning Angular 17, MongoDB & Godot
     
 ## Skills
 ### Languages 
